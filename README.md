@@ -10,7 +10,7 @@ TDict is FREE, man, so, like, dig it, and be FREE!
 Look up some words and stuff.
 TDict requires Tcl/Tk on mac and linux
 Mac folks, get Tcl here:
-http://www.activestate.com/store/productdetail.aspx?prdGuid=f0cd6399-fefb-466e-ba17-220dcd6f4078
+http://www.activestate.com/activetcl
 
 Linux folks, install Tcl (8.5 or newer) with your distribution's package manager (apt, yum, whatever).
 
