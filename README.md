@@ -24,6 +24,7 @@ if you want to run from the source .tcl file, you will need it.
 Get it also from ActiveTcl (url above).
 Windows folks can also install with Chocolatey 
 > cinst tdict
+
 http://chocolatey.org/packages/tdict
 
 ## Features
