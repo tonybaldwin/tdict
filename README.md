@@ -4,7 +4,7 @@ tdict
 Free, crossplatform, online dictionary/dict.org lookup tool in tcl/tk
 with access to a gajillion language resources.
 
-![TDict](http://tonybaldwin.info/images/tdict.pants.020314183856.jpg)
+![TDict](http://tonybaldwin.homelinux.net/images/tdict.pants.020314183856.jpg)
 
 ## Dependencies
 TDict requires Tcl/Tk on mac and linux
